@@ -15,8 +15,7 @@
 4. This component is designed to be scalable, the AI developer can adjust the parameters in the `generic` map as she wishes.
 
 ## Example
-An example of how to use/test this component are represented as a testbench in the testbench folder.
-1. To run the simulation, you could run the command below:
+An example of how to use/test this component are represented as a testbench in the testbench folder. To run the simulation, you could run the command below:
 ``` Bash
 make TESTBENCH=conv_1d
 ```
